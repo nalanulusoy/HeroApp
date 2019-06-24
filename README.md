@@ -1,4 +1,4 @@
 # HeroApp
-read file from input after solution algorithms code game winner or losser write to  output file
+Reading file from input after solve algorithm that displaying game winner or looser which write to output file
 
 
